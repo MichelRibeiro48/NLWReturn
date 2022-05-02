@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* um jeito diferente de fazer o css usando ClassName = "tag" */
+/* .button {
+  @apply bg-violet-500 px-4 h-10 rounded text-violet-100
+} */
